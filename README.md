@@ -35,16 +35,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A true relation of the faction begun at VVisbich by Fa. Edmonds, alias VVeston, a Iesuite, 1595. and
+
+1. To the true Catholick Reader.
+
 #####Body#####
 
-1. An abstract of the memoriall ſent by certaine Engliſhmen out of the Low-countryes, to the Popes holines Clement the eight, againſt the Ieſuites labouring in the Engliſh Vineyard, September 1597.
+1. A true relation of the faction begun at VViſbich.
 
-1. Certayne chiefe points of accuſations, wherewith many Engliſh men haue iuſtly charged the Ieſuites vnto the Pope, and diuers Cardinals: taken out of the Memoriall and other letters: ſome of them dated at Rome 8. of Nouember 1597.
+    _ An abstract of the memoriall ſent by certaine Engliſhmen out of the Low-countryes, to the Popes holines Clement the eight, againſt the Ieſuites labouring in the Engliſh Vineyard, September 1597.
 
-1. Concerning the whole Societie, and the Ieſuites at Rome.
+    _ Certayne chiefe points of accuſations, wherewith many Engliſh men haue iuſtly charged the Ieſuites vnto the Pope, and diuers Cardinals: taken out of the Memoriall and other letters: ſome of them dated at Rome 8. of Nouember 1597.
 
-1. The Cenſure of Paris before mentioned for our instification, in ſuspending our obedience to maister Blackwels authoritie, vntill we knew his Holynes further pleaſure.
+    _ Concerning the whole Societie, and the Ieſuites at Rome.
+
+    _ The Cenſure of Paris before mentioned for our instification, in ſuspending our obedience to maister Blackwels authoritie, vntill we knew his Holynes further pleaſure.
 The raſh and vnaduiſed aunſwere of Mayſter Blackwell to the Cenſure of Paris.Reuerendi Patres & Frat
 **Types of content**
 
